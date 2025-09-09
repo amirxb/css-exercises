@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.similar-odd {
+  background-color: #ff9cba;
+  font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+}
+
+.similar-odd.three {
+  font-size: 24px;
+}
+
+#first-id {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#second-id {
+  background-color: #51ff85;
+  font-size: 24px;
+  font-weight: bold;
+}
